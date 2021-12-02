@@ -31,5 +31,3 @@ Character detector which extracts printed or handwritten text from an image or v
 **Task 2 CV:**</br>
 Color Identification in Images.</br>
 Implement an image color detector which identifies all the colors in an image or video
-</br></br>
-
